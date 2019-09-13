@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaFor", "EstruturaFo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "estruturaDeDecisao", "..\..\..\..\..\Desktop\C#\estruturaDeDecisao\estruturaDeDecisao\estruturaDeDecisao.csproj", "{E0D01E9F-1C75-4A74-88D4-35F4D90FA7FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operadorRelacional", "..\..\..\..\..\Desktop\C#\operadorRelacional\operadorRelacional\operadorRelacional.csproj", "{4B0326C7-9BB8-4B76-A4D5-8769085627C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E0D01E9F-1C75-4A74-88D4-35F4D90FA7FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0D01E9F-1C75-4A74-88D4-35F4D90FA7FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0D01E9F-1C75-4A74-88D4-35F4D90FA7FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B0326C7-9BB8-4B76-A4D5-8769085627C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B0326C7-9BB8-4B76-A4D5-8769085627C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B0326C7-9BB8-4B76-A4D5-8769085627C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B0326C7-9BB8-4B76-A4D5-8769085627C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
